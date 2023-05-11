@@ -4,7 +4,7 @@ layout: default
 <center>
 <a href="#privacy">Privacy Policy</a>
 <br />
-Contact: <asowidgets [at] gmail.com>
+Contact: <getarchiveapp [at] gmail.com>
 <br />
 <br />
 </center>
