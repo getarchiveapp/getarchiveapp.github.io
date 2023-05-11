@@ -15,7 +15,7 @@ Contact: <asowidgets [at] gmail.com>
 
 ## 🌐 Get a snapshot of any web page
 
-This extension allows you to leverage Archive.today to get a snapshot of any web page from the past.
+This extension allows you to leverage Archive.today to get a snapshot of any web page from the past!
 This snapshot will always be online even if the original page disappears. It saves a text and a graphical copy of the page for better accuracy and provides a short and reliable link to an unalterable record of any web page.
 
 ## 📱 Screenshots
